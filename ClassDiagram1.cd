@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Parser3._0.CmdExecute">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAEAAAAAAAAAAAFAAAAgAAAAAIAAAAAAQBAAAAAAA=</HashCode>
+      <FileName>CmdExecute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parser3._0.CustomTabControl">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAIAEAACAAAEAAAAAAAAAAAAAAAAMAAABBAAAQAAA=</HashCode>
+      <FileName>CustomTabControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parser3._0.BinConvert">
+    <Position X="4.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>BinConvert.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parser3._0.JsonConverter">
+    <Position X="10" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABACAAAAIAQAAAAAAAAAAAAAAAIAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>JsonConvert.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parser3._0.ExcelReader">
+    <Position X="4.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExcelReader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parser3._0.Program">
+    <Position X="4.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parser3._0.Variable">
+    <Position X="6.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACBAAAAAAAAAAAA=</HashCode>
+      <FileName>Variable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
